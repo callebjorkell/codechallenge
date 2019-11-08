@@ -1,5 +1,5 @@
 # Code Challenge
-The goal of the challenge is to create a dockerized web service such that the following HTTP request, for the variable `$name`
+The goal of the challenge was to create a dockerized web service such that the following HTTP request, for the variable `$name`
 ```sh
 curl -X POST http://localhost:8080/messages/names/$name
 ```
